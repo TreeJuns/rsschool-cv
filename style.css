@@ -1,0 +1,117 @@
+COMMENT STYLE CSS
+https://treejuns.github.io/rsschool-cv/
+/* body {
+    margin: 0;
+}
+html {
+    background-image: url(background1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a:hover {
+    animation: color-c 3s;
+}
+
+@keyframes color-c {
+    0% {
+        Color: white;
+    }
+    
+    100% {
+        color: rgb(19, 116, 161);
+    }
+}
+header {
+    height: 3em;
+    width: 80%;
+    background-color: rgb(71, 69, 69);
+    position: relative;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: right;
+}
+li.nav {
+    padding-left: 20px;
+    margin-right: 10px;   
+    display: inline;
+    list-style: none;
+    font-size: 1.8em;
+}
+.avatar {
+    width: 30%;
+    height: 30%;
+    border-radius: 50%;
+}
+.photo {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+p.prof {
+    position: relative;
+    padding-top: 0px;
+    margin-top: 0px;
+    font-size: 1.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.info {
+    width: 100%;
+}
+.info h2 {
+    text-align: center;
+}
+.info td {
+    width: 50%;
+    font-size: 1em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div.obl {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+footer {
+    height: 4em;
+    width: 100%;
+    background-color: rgb(71, 69, 69);
+    flex: 0 0 auto;
+    bottom: 0;
+    margin: 0;
+    color: white;
+}
+
+#rs {
+    position: absolute;
+    margin-right: 5%;
+    margin-top: 0.8%;
+    width: 5%;
+    margin-left: 93%;
+}
+
+#year {
+    position: absolute;
+    margin-left: 50%;
+    margin-right: 50%;
+    font-size: 2em;
+    margin-top: 0.5em;
+}
+#account {
+    position: absolute;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+ */
